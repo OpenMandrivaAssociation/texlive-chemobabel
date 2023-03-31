@@ -1,6 +1,6 @@
 Name:		texlive-chemobabel
 Version:	64778
-Release:	1
+Release:	2
 Summary:	Convert chemical structures from ChemDraw, MDL molfile or SMILES using Open Babel
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/chemobabel
