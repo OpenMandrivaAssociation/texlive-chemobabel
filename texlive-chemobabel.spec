@@ -3,7 +3,7 @@ Version:	64778
 Release:	2
 Summary:	Convert chemical structures from ChemDraw, MDL molfile or SMILES using Open Babel
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/chemobabel
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/chemobabel
 License:	bsd2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/chemobabel.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/chemobabel.doc.r%{version}.tar.xz
